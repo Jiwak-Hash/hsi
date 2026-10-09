@@ -1,0 +1,8 @@
+TEST RESULTS
+============================================================
+Model: checkpoints/checkpoint_epoch_25.pth
+Test set size: 2
+Test Loss: 0.001542
+Test PSNR: 29.05 dB
+Test SSIM: 0.7746
+Test SAM:  23.7900 degrees
